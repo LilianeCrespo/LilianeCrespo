@@ -1,7 +1,7 @@
 
 
 <div class="container">
-    <h1>👋 Olá! Eu sou Liliane Crespo</h1>
+    <h1>👋 Olá! Eu sou Liliane Crespo</h1>😄☕
     <p></p>      
  <!--   <p>📱 <strong>Telefone:</strong> (21) 9.9195.0568</p>
     <p>📧 <strong>Email:</strong> <a href="mailto:lilianecrespo@gmail.com">lilianecrespo@gmail.com</a></p>
@@ -43,4 +43,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://github.com/hideraldus13/github-emoji
 -->
