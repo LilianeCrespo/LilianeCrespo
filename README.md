@@ -10,15 +10,18 @@
     
 
   <h2>💼 Resumo Profissional</h2>
-            <p>Atualmente, frequento uma Pós-graduação em Gestão de Dados, com o objetivo de transformar um grande volume de dados em relatórios que possam ser analisados e transformados em insights para a tomada de decisões de negócios.</p>
-            <p>Possuo formação tecnológica em Criação e Gestão de Ambientes para Internet, e também cursos de Técnico em Processamento de Dados e Fotografia. Minha experiência inclui assessoria de marketing, programação de sites, e educação a distância na plataforma Moodle.</p>
-    <p>Entre as minhas habilidades, destacam-se edição de fotografia, organização de conteúdo em redes sociais com ferramentas como Canva e Adobe, e edição de vídeo.</p>
+       <p> Profissional em formação contínua, atualmente cursando uma Pós-graduação em Gestão de Dados, com o objetivo de transição para a área de Análise de Dados. Além disso, estou realizando cursos complementares em 
+        Análise de Dados Big Data e Google Cloud, visando ampliar minha experiência e competências na área.</p>
+       <p>Possuo uma Graduação em Criação e Gestão de Ambientes para Internet e formação técnica em Processamento de Dados e Fotografia.</p>
+       <p> Experiência diversificada em marketing digital, programação de sites na educação a distância (Plataforma Moodle). Destaco minhas habilidades em edição de imagens e vídeos, gestão de conteúdo em redes sociais (Canva, Adobe) e organização de arquivos digitais. Sou produtiva, resiliente e possuo excelente comunicação, organização e capacidade de trabalho em equipe.</p>
+      
     
    <h2>🎓 Formação</h2>
     <ul>
         <li>Pós-graduação em Gestão de Dados | BBI of Chicago (Em andamento)</li>
+         <li>Google Cloud | Senac Rio (Em andamento)</li>
         <li>Analista de Dados - Big Data Science | Senac Rio (Em andamento)</li>
-        <li>Tecnologia em Criação e Gestão de Ambientes para Internet | Universidade Estácio de Sá (Concluído)</li>
+        <li>Graduação em Criação e Gestão de Ambientes para Internet | Universidade Estácio de Sá (Concluído)</li>
         <li>Técnico de Processamento de Dados | Colégio Flama (Concluído)</li>
         <li>Fotografia | Senac Rio (Concluído)</li>
     </ul>
