@@ -22,8 +22,9 @@
          <li>Google Cloud | Senac Rio (Em andamento)</li>
         <li>Analista de Dados - Big Data Science | Senac Rio (Em andamento)</li>
         <li>Graduação em Criação e Gestão de Ambientes para Internet | Universidade Estácio de Sá (Concluído)</li>
-        <li>Técnico de Processamento de Dados | Colégio Flama (Concluído)</li>
         <li>Fotografia | Senac Rio (Concluído)</li>
+        <li>Técnico de Processamento de Dados | Colégio Flama (Concluído)</li>
+       
     </ul>
 
    <h2>🔗 Links Importantes</h2>
